@@ -13,3 +13,7 @@ https://github.com/vincentvanroij/assignments/blob/master/Exam_student%20(1)%20(
 
 Exam June:
 https://github.com/vincentvanroij/assignments/blob/master/exam_june_7_2018%20(4)%20(3)%20(1).ipynb
+
+
+Exam June with correct answers:
+https://github.com/vincentvanroij/assignments/blob/master/exam_june_7_2018%20(2)%20(1).ipynb
